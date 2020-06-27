@@ -1,2 +1,2 @@
 # My-Resume
-Download it to endable click to see details
+Download it to activate the function "click to see details"
